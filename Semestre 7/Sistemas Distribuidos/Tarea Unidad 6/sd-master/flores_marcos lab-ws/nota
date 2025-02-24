@@ -1,0 +1,2 @@
+Levanto mi db con: docker compose up --build
+se debe estar en el directorio del archivo docker.

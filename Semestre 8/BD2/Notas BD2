@@ -1,0 +1,23 @@
+¿Por qué es importante conocer cómo funcionan las bases de datos?
+Para ser capaces de construir aplicaciones
+- Para poder optimizar el sistema.
+- Tener seguridad ante la pérdida de datos, la información no debe perderse.
+- Darle soporte y mantenimiento.
+
+Salario de Dev Jr con 1 a 3 años: de 2 a 3 dólares la hora. 
+
+SDBM
+- Worker: Es un proceso que realiza una consulta.
+
+
+Cuando un usuario cambia su contraseña el camino que recorre la información es el siguiente:
+    - Del dispositivo del usuario pasa a la nube.
+    - De la nube pasa a la API del servidor.
+    - De la API del servidor pasa a la app del servidor.
+    - De la app del servidor pasa al Sistema gerenciador de base de datos.
+        - Dentro del SGBD pasa a un Connection Manager, luego a un Transaction Manager.
+                - Una transacción es realizada por algún proceso Worker, lo que hacen estos procesos es dejar sus transacciones en una memoria intermedia para que luego pase
+                  al disco.
+        -Luego del transaction manager pasa a un Buffer Manager.
+
+
