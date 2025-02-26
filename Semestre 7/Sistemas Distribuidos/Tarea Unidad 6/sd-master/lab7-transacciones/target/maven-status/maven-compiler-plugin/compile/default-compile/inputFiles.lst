@@ -1,0 +1,10 @@
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/controller/TransactionController.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/controller/TransactionRunnable.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/inicio/PrincipalConBloqueo.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/inicio/PrincipalSinBloqueo.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/model/EntityManagerHelper.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/model/Persona.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/model/PersonaFacade.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/modelo/exceptions/IllegalOrphanException.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/modelo/exceptions/NonexistentEntityException.java
+/home/marcos/Downloads/Facultad/Semestre 7/Sistemas Distribuidos/Tarea Unidad 6/sd-master/lab7-transacciones/src/main/java/sd/transacciones/modelo/exceptions/PreexistingEntityException.java
